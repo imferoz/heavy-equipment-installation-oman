@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /$
+Disallow: /admin/
+Disallow: /cgi-bin/
+Disallow: /wp-json/
+Crawl-delay: 5
+
+Sitemap: https://heavy-equipment-installation-oman.alwejhagroup.com/sitemap.xml
